@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/09 16:09:01.000.544,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/09 17:20:56.000.624,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Agenda Telefonica\UntPrincipal.pas</Transaction>
+    <Transaction>2019/03/09 17:20:56.000.624,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Agenda Telefonica\UntPrincipal.dfm</Transaction>
+    <Transaction>2019/03/09 17:21:14.000.797,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Agenda Telefonica\PrjAgenteContatos.dproj</Transaction>
+    <Transaction>2019/03/30 21:35:09.000.742,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Agenda Telefonica\Pronto\Agenda Telefonica\UntPrincipal.pas=C:\Users\USUARIO\Desktop\Agenda Multi\UntPrincipal.pas</Transaction>
+    <Transaction>2019/03/30 21:35:09.000.742,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Agenda Telefonica\Pronto\Agenda Telefonica\UntPrincipal.dfm=C:\Users\USUARIO\Desktop\Agenda Multi\UntPrincipal.dfm</Transaction>
+    <Transaction>2019/03/30 21:35:34.000.221,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Agenda Telefonica\Pronto\Agenda Telefonica\PrjAgenteContatos.dproj=C:\Users\USUARIO\Desktop\Agenda Multi\PrjAgenteMulti.dproj</Transaction>
+    <Transaction>2019/04/29 13:34:10.000.934,=C:\Users\gfontana3\Pictures\Agenda Multi 2++\Unit2.pas</Transaction>
+    <Transaction>2019/04/29 14:14:03.000.913,=C:\Users\gfontana3\Pictures\Agenda Multi 2++\UntAbout.pas</Transaction>
+    <Transaction>2019/04/29 14:15:04.000.133,C:\Users\gfontana3\Pictures\Agenda Multi 2++\UntAbout.pas=</Transaction>
+    <Transaction>2019/04/29 14:15:46.000.416,=C:\Users\gfontana3\Pictures\Agenda Multi 2++\Unit2.pas</Transaction>
+    <Transaction>2019/04/29 14:17:05.000.725,=C:\Users\gfontana3\Pictures\Agenda Multi 2++\UntAbout.pas</Transaction>
+    <Transaction>2019/04/29 14:20:04.000.541,C:\Users\gfontana3\Pictures\Agenda Multi 2++\UntAbout.pas=</Transaction>
+    <Transaction>2019/04/29 21:49:22.000.044,=E:\Alô Mãe\Agenda Multi 2++\Unit2.pas</Transaction>
+    <Transaction>2019/04/29 21:49:50.000.030,E:\Alô Mãe\Agenda Multi 2++\Unit2.pas=E:\Alô Mãe\Agenda Multi 2++\UntAbout.pas</Transaction>
+    <Transaction>2019/04/29 21:49:50.000.030,E:\Alô Mãe\Agenda Multi 2++\Unit2.dfm=E:\Alô Mãe\Agenda Multi 2++\UntAbout.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -23,8 +23,7 @@ Este programa permite cadastrar, editar, filtrar e excluir contatos, a fim de cr
   - Idade (obs: calculada automaticamente pela agenda)
   - CEP
   - Estado Civíl (Solteiro/Namorando/Divorciado/Casado/Viuvo)
-  - Notas
-  
+  - Notas  
   - Imagem de Perfil (.png)
 
 ```
